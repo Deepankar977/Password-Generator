@@ -1,4 +1,4 @@
-# Password-Generator2
+# Password-Generator
 
 A Python script to generate random passwords with customizable options, such as including digits and symbols. It also saves generated passwords to a cache file for reference.
 
