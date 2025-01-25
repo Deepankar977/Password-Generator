@@ -10,4 +10,4 @@ A Python script to generate random passwords with customizable options, such as 
 ## Usage
 Clone this repository and run the script:
 ```bash
-python password_generator.py
+python mainPass.py
